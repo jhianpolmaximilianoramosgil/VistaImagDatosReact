@@ -21,8 +21,10 @@ _Reset
 
 ### Para correr el proyecto React instalar dependencias (creación de nodumodules)
 _ Instalar dependencias
+
 npm install react-scripts --save
 
 _ Luego ejecutar el comando escribir
+
 npm start 
 
